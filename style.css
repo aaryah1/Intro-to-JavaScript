@@ -1,0 +1,20 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: lavenderblush;
+}
+h1{
+  color: red;
+}
+button{
+  background-color: lavender;
+  font-family: cursive;
+  border-radius: 2%;
+  
+}
+
+p{
+  color: red;
+}
